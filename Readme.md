@@ -116,38 +116,34 @@ Seems that testing a fragment will look something like this
 	SOFTWARE.
 
 
-* [Glide] (https://github.com/bumptech/glide) 
-	Licensed mostly under the Apache License, Version 2.0 
 
 	
 * [Test a Service] (https://github.com/Elorri/Tests/tree/master/tests1/src/androidTest/java/com/elorri/android/tests/LocalServiceTest)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/integration/ServiceTestRuleSample/app)
-	
+* [test an Activity] (https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorActivityTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/runner/AndroidJunitRunnerSample/app)
+* [test a Pojo object] (https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/runner/AndroidJunitRunnerSample/app)
+* [test an EditText hint] (https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/HintMatcher)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/runner/AndroidJunitRunnerSample/app)
+* [test an Activity EditText] (https://github.com/Elorri/Tests/tree/master/tests3/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/ui/espresso/BasicSample)		
+* [test an EditText hint] (https://github.com/Elorri/Tests/tree/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchers)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/ui/espresso/CustomMatcherSample)	
+* [test an Activity EditText hint] (https://github.com/Elorri/Tests/tree/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchersTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/ui/espresso/CustomMatcherSample)		
+* [test an ListView] (https://github.com/Elorri/Tests/tree/master/tests5/src/androidTest/java/com/elorri/android/tests/LongListActivityTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/DataAdapterSample)	
+* [test an implicit Intent using Espresso Intent(Camera take a picture)] (https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewerActivityTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsAdvancedSample)	
+* [test an ImageView (if it has a drawable applied to it)] (https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewHasDrawableMatcher)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsAdvancedSample)		
 
-https://github.com/Elorri/Tests/tree/master/tests2/		-> https://github.com/googlesamples/android-testing/tree/master/runner/AndroidJunitRunnerSample/app
-
-	https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorActivityTest -> test an Activity
-	https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorTest -> test a Pojo object
-	https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/HintMatcher -> test an EditText hint
 	
-https://github.com/Elorri/Tests/tree/master/tests3/		-> https://github.com/googlesamples/android-testing/tree/master/ui/espresso/BasicSample
+https://github.com/Elorri/Tests/tree/master/tests6/		-> 
 	
-	https://github.com/Elorri/Tests/tree/master/tests3/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest -> test an Activity EditText
-	
-	
-https://github.com/Elorri/Tests/tree/master/tests4/		-> https://github.com/googlesamples/android-testing/tree/master/ui/espresso/CustomMatcherSample
-	
-	https://github.com/Elorri/Tests/tree/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchers -> test an EditText hint
-	https://github.com/Elorri/Tests/tree/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchersTest -> test an Activity EditText hint
-	
-https://github.com/Elorri/Tests/tree/master/tests5/		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/DataAdapterSample
-	
-	https://github.com/Elorri/Tests/tree/master/tests5/src/androidTest/java/com/elorri/android/tests/LongListActivityTest -> test an ListView
-	
-https://github.com/Elorri/Tests/tree/master/tests6/		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsAdvancedSample/
-	
-	https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewerActivityTest -> test an implicit Intent using Espresso Intent(Camera take a picture)	
-	https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewHasDrawableMatcher -> test an ImageView (if it has a drawable applied to it).
+	 -> 	
+	 -> .
 
 https://github.com/Elorri/Tests/tree/master/tests7/		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsBasicSample
 	
