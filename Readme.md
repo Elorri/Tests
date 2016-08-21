@@ -12,12 +12,12 @@ This repository is design to shows examples of the different type of tests exist
 		
 ### Unit test
 
-* [test email validity] (https://github.com/Elorri/Tests/tree/master/tests10/src/androidTest/java/com/elorri/android/tests/EmailValidatorTest)
+* [Test email validity] (https://github.com/Elorri/Tests/blob/master/tests10/src/test/java/com/elorri/android/tests/EmailValidatorTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/unit/BasicSample/app)	
 	
 ### Integrated test
 
-* [test a SharedPreferences] (https://github.com/Elorri/Tests/tree/master/tests10/src/androidTest/java/com/elorri/android/tests/SharedPreferencesHelperTest)
+* [Test a SharedPreferences] (https://github.com/Elorri/Tests/blob/master/tests10/src/test/java/com/elorri/android/tests/SharedPreferencesHelperTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/unit/BasicSample/app)	
 	
 ### UI Integrated test
@@ -69,42 +69,42 @@ I don't have example for this but it should look like this:
 	
 ### Instrumented unit test/Connected unit test
 
-* [Test a Pojo object] (https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorTest)
+* [Test a Pojo object] (https://github.com/Elorri/Tests/blob/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/runner/AndroidJunitRunnerSample/app)
 	
 ### Instrumented integrated test/Connected integrated test
 
-* [Test a Service] (https://github.com/Elorri/Tests/tree/master/tests1/src/androidTest/java/com/elorri/android/tests/LocalServiceTest)
+* [Test a Service] (https://github.com/Elorri/Tests/blob/master/tests1/src/androidTest/java/com/elorri/android/tests/LocalServiceTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/integration/ServiceTestRuleSample/app)
-* [Test parcelable write] (https://github.com/Elorri/Tests/tree/master/tests11/src/androidTest/java/com/elorri/android/tests/LogHistoryAndroidUnitTest)
+* [Test parcelable write] (https://github.com/Elorri/Tests/blob/master/tests11/src/androidTest/java/com/elorri/android/tests/LogHistoryAndroidUnitTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/unit/BasicUnitAndroidTest)	
 	
 ### UI Instrumented integrated test/UI Connected integrated test
 
-* [Test an Activity] (https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorActivityTest)
+* [Test an Activity] (https://github.com/Elorri/Tests/blob/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorActivityTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/runner/AndroidJunitRunnerSample/app)
-* [Test an EditText hint] (https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/HintMatcher)
+* [Test an EditText hint] (https://github.com/Elorri/Tests/blob/master/tests2/src/androidTest/java/com/elorri/android/tests/HintMatcher.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/runner/AndroidJunitRunnerSample/app)
-* [Test an Activity EditText] (https://github.com/Elorri/Tests/tree/master/tests3/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest)
+* [Test an Activity EditText] (https://github.com/Elorri/Tests/blob/master/tests3/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/ui/espresso/BasicSample)		
-* [Test an EditText hint] (https://github.com/Elorri/Tests/tree/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchers)
+* [Test an EditText hint] (https://github.com/Elorri/Tests/blob/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatcher.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/ui/espresso/CustomMatcherSample)	
-* [Test an Activity EditText hint] (https://github.com/Elorri/Tests/tree/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchersTest)
+* [Test an Activity EditText hint] (https://github.com/Elorri/Tests/blob/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchersTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/ui/espresso/CustomMatcherSample)
-* [Test an ListView] (https://github.com/Elorri/Tests/tree/master/tests5/src/androidTest/java/com/elorri/android/tests/LongListActivityTest)
+* [Test an ListView] (https://github.com/Elorri/Tests/blob/master/tests5/src/androidTest/java/com/elorri/android/tests/LongListActivityTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/DataAdapterSample)	
-* [Test an implicit Intent using Espresso Intent(Camera take a picture)] (https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewerActivityTest)
+* [Test an implicit Intent using Espresso Intent(Camera take a picture)] (https://github.com/Elorri/Tests/blob/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewerActivityTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsAdvancedSample)	
-* [Test an ImageView (if it has a drawable applied to it)] (https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewHasDrawableMatcher)
+* [Test an ImageView (if it has a drawable applied to it)] (https://github.com/Elorri/Tests/blob/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewerActivityTest.java ImageViewHasDrawableMatcher)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsAdvancedSample)	
-* [Test an implicit Intent using Espresso Intent(Dialer)] (https://github.com/Elorri/Tests/tree/master/tests7/src/androidTest/java/com/elorri/android/tests/DialerActivityTest)
+* [Test an implicit Intent using Espresso Intent(Dialer)] (https://github.com/Elorri/Tests/blob/master/tests7/src/androidTest/java/com/elorri/android/tests/DialerActivityTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsBasicSample)	
-* [Test an AutocompleteTextView] (https://github.com/Elorri/Tests/tree/master/tests8/src/androidTest/java/com/elorri/android/tests/MultiWindowTest)
+* [Test an AutocompleteTextView] (https://github.com/Elorri/Tests/blob/master/tests8/src/androidTest/java/com/elorri/android/tests/MultiWindowTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/MultiWindowSample)	
 	
 ### UI Automator Instrumented test/UI Automator Connected test
 
-* [Test launching an app, press home, change edittext string] (https://github.com/Elorri/Tests/tree/master/tests9/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest)
+* [Test launching an app, press home, change edittext string] (https://github.com/Elorri/Tests/blob/master/tests9/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest.java)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/uiautomator/BasicSample/app)
 	
 
