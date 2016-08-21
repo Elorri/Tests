@@ -16,9 +16,9 @@ Most of the tests here are copy/paste from the googleSample repo.
 
 
 ## Unit test
-	C:\AndroidStudioProjects\Examples\Tests\tests10\src\test\java\com\elorri\android\tests\EmailValidatorTest -> test email validity	
+	https://github.com/Elorri/Tests/tree/master/tests10/src/test/java/com/elorri/android/tests/EmailValidatorTest -> test email validity	
 ## Integrated test
-	C:\AndroidStudioProjects\Examples\Tests\tests10\src\test\java\com\elorri\android\tests\SharedPreferencesHelperTest -> test a SharedPreferences
+	https://github.com/Elorri/Tests/tree/master/tests10/src/test/java/com/elorri/android/tests/SharedPreferencesHelperTest -> test a SharedPreferences
 ## UI Integrated test
 Seems that testing a fragment will look something like this
 
@@ -66,23 +66,23 @@ Seems that testing a fragment will look something like this
 	}
 	
 ## Instrumented unit test/Connected unit test
-	C:\AndroidStudioProjects\Examples\Tests\tests2\src\androidTest\java\com\elorri\android\tests\CalculatorTest -> test a Pojo object
+	https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorTest -> test a Pojo object
 ## Instrumented integrated test/Connected integrated test
-	C:\AndroidStudioProjects\Examples\Tests\tests1\src\androidTest\java\com\elorri\android\tests\LocalServiceTest -> test a Service
-	C:\AndroidStudioProjects\Examples\Tests\tests11\src\androidTest\java\com\elorri\android\tests\LogHistoryAndroidUnitTest -> test parcelable write		
+	https://github.com/Elorri/Tests/tree/master/tests1/src/androidTest/java/com/elorri/android/tests/LocalServiceTest -> test a Service
+	https://github.com/Elorri/Tests/tree/master/tests11/src/androidTest/java/com/elorri/android/tests/LogHistoryAndroidUnitTest -> test parcelable write		
 ## UI Instrumented integrated test/UI Connected integrated test
-	C:\AndroidStudioProjects\Examples\Tests\tests2\src\androidTest\java\com\elorri\android\tests\CalculatorActivityTest -> test an Activity
-	C:\AndroidStudioProjects\Examples\Tests\tests2\src\androidTest\java\com\elorri\android\tests\HintMatcher -> test an EditText hint
-	C:\AndroidStudioProjects\Examples\Tests\tests3\src\androidTest\java\com\elorri\android\tests\ChangeTextBehaviorTest -> test an Activity EditText
-	C:\AndroidStudioProjects\Examples\Tests\tests4\src\androidTest\java\com\elorri\android\tests\HintMatchers -> test an EditText hint
-	C:\AndroidStudioProjects\Examples\Tests\tests4\src\androidTest\java\com\elorri\android\tests\HintMatchersTest -> test an Activity EditText hint
-	C:\AndroidStudioProjects\Examples\Tests\tests5\src\androidTest\java\com\elorri\android\tests\LongListActivityTest -> test an ListView
-	C:\AndroidStudioProjects\Examples\Tests\tests6\src\androidTest\java\com\elorri\android\tests\LongListActivityTest -> test an implicit Espresso Intent (Camera take a picture)		
-	C:\AndroidStudioProjects\Examples\Tests\tests6\src\androidTest\java\com\elorri\android\tests\ImageViewHasDrawableMatcher -> test an ImageView (if it has a drawable applied to it).	
-	C:\AndroidStudioProjects\Examples\Tests\tests7\src\androidTest\java\com\elorri\android\tests\DialerActivityTest -> test an implicit Intent using Espresso Intent(Dialer)		
-	C:\AndroidStudioProjects\Examples\Tests\tests8\src\androidTest\java\com\elorri\android\tests\MultiWindowTest -> test an AutocompleteTextView	
+	https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorActivityTest -> test an Activity
+	https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/HintMatcher -> test an EditText hint
+	https://github.com/Elorri/Tests/tree/master/tests3/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest -> test an Activity EditText
+	https://github.com/Elorri/Tests/tree/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchers -> test an EditText hint
+	https://github.com/Elorri/Tests/tree/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchersTest -> test an Activity EditText hint
+	https://github.com/Elorri/Tests/tree/master/tests5/src/androidTest/java/com/elorri/android/tests/LongListActivityTest -> test an ListView
+	https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/LongListActivityTest -> test an implicit Espresso Intent (Camera take a picture)		
+	https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewHasDrawableMatcher -> test an ImageView (if it has a drawable applied to it).	
+	https://github.com/Elorri/Tests/tree/master/tests7/src/androidTest/java/com/elorri/android/tests/DialerActivityTest -> test an implicit Intent using Espresso Intent(Dialer)		
+	https://github.com/Elorri/Tests/tree/master/tests8/src/androidTest/java/com/elorri/android/tests/MultiWindowTest -> test an AutocompleteTextView	
 ## UI Automator Instrumented test/UI Automator Connected test
-	C:\AndroidStudioProjects\Examples\Tests\tests8\src\androidTest\java\com\elorri\android\tests\ChangeTextBehaviorTest -> test launching an app, press home, change edittext string
+	https://github.com/Elorri/Tests/tree/master/tests8/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest -> test launching an app, press home, change edittext string
 	
 
 ### Detail screen
@@ -118,56 +118,56 @@ Seems that testing a fragment will look something like this
 
 
 
+https://github.com/Elorri/Tests/tree/master/tests1/
+https://github.com/Elorri/Tests/tree/master/tests1/		-> https://github.com/googlesamples/android-testing/tree/master/integration/ServiceTestRuleSample/app
+	
+	https://github.com/Elorri/Tests/tree/master/tests1/src/androidTest/java/com/elorri/android/tests/LocalServiceTest -> test a Service	
 
-C:\AndroidStudioProjects\Examples\Tests\tests1\		-> https://github.com/googlesamples/android-testing/tree/master/integration/ServiceTestRuleSample/app
-	
-	C:\AndroidStudioProjects\Examples\Tests\tests1\src\androidTest\java\com\elorri\android\tests\LocalServiceTest -> test a Service	
+https://github.com/Elorri/Tests/tree/master/tests2/		-> https://github.com/googlesamples/android-testing/tree/master/runner/AndroidJunitRunnerSample/app
 
-C:\AndroidStudioProjects\Examples\Tests\tests2\		-> https://github.com/googlesamples/android-testing/tree/master/runner/AndroidJunitRunnerSample/app
+	https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorActivityTest -> test an Activity
+	https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/CalculatorTest -> test a Pojo object
+	https://github.com/Elorri/Tests/tree/master/tests2/src/androidTest/java/com/elorri/android/tests/HintMatcher -> test an EditText hint
+	
+https://github.com/Elorri/Tests/tree/master/tests3/		-> https://github.com/googlesamples/android-testing/tree/master/ui/espresso/BasicSample
+	
+	https://github.com/Elorri/Tests/tree/master/tests3/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest -> test an Activity EditText
+	
+	
+https://github.com/Elorri/Tests/tree/master/tests4/		-> https://github.com/googlesamples/android-testing/tree/master/ui/espresso/CustomMatcherSample
+	
+	https://github.com/Elorri/Tests/tree/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchers -> test an EditText hint
+	https://github.com/Elorri/Tests/tree/master/tests4/src/androidTest/java/com/elorri/android/tests/HintMatchersTest -> test an Activity EditText hint
+	
+https://github.com/Elorri/Tests/tree/master/tests5/		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/DataAdapterSample
+	
+	https://github.com/Elorri/Tests/tree/master/tests5/src/androidTest/java/com/elorri/android/tests/LongListActivityTest -> test an ListView
+	
+https://github.com/Elorri/Tests/tree/master/tests6/		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsAdvancedSample/
+	
+	https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewerActivityTest -> test an implicit Intent using Espresso Intent(Camera take a picture)	
+	https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewHasDrawableMatcher -> test an ImageView (if it has a drawable applied to it).
 
-	C:\AndroidStudioProjects\Examples\Tests\tests2\src\androidTest\java\com\elorri\android\tests\CalculatorActivityTest -> test an Activity
-	C:\AndroidStudioProjects\Examples\Tests\tests2\src\androidTest\java\com\elorri\android\tests\CalculatorTest -> test a Pojo object
-	C:\AndroidStudioProjects\Examples\Tests\tests2\src\androidTest\java\com\elorri\android\tests\HintMatcher -> test an EditText hint
+https://github.com/Elorri/Tests/tree/master/tests7/		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsBasicSample
 	
-C:\AndroidStudioProjects\Examples\Tests\tests3\		-> https://github.com/googlesamples/android-testing/tree/master/ui/espresso/BasicSample
-	
-	C:\AndroidStudioProjects\Examples\Tests\tests3\src\androidTest\java\com\elorri\android\tests\ChangeTextBehaviorTest -> test an Activity EditText
-	
-	
-C:\AndroidStudioProjects\Examples\Tests\tests4\		-> https://github.com/googlesamples/android-testing/tree/master/ui/espresso/CustomMatcherSample
-	
-	C:\AndroidStudioProjects\Examples\Tests\tests4\src\androidTest\java\com\elorri\android\tests\HintMatchers -> test an EditText hint
-	C:\AndroidStudioProjects\Examples\Tests\tests4\src\androidTest\java\com\elorri\android\tests\HintMatchersTest -> test an Activity EditText hint
-	
-C:\AndroidStudioProjects\Examples\Tests\tests5\		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/DataAdapterSample
-	
-	C:\AndroidStudioProjects\Examples\Tests\tests5\src\androidTest\java\com\elorri\android\tests\LongListActivityTest -> test an ListView
-	
-C:\AndroidStudioProjects\Examples\Tests\tests6\		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsAdvancedSample/
-	
-	C:\AndroidStudioProjects\Examples\Tests\tests6\src\androidTest\java\com\elorri\android\tests\ImageViewerActivityTest -> test an implicit Intent using Espresso Intent(Camera take a picture)	
-	C:\AndroidStudioProjects\Examples\Tests\tests6\src\androidTest\java\com\elorri\android\tests\ImageViewHasDrawableMatcher -> test an ImageView (if it has a drawable applied to it).
+	https://github.com/Elorri/Tests/tree/master/tests7/src/androidTest/java/com/elorri/android/tests/DialerActivityTest -> test an implicit Intent using Espresso Intent(Dialer)	
 
-C:\AndroidStudioProjects\Examples\Tests\tests7\		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsBasicSample
+https://github.com/Elorri/Tests/tree/master/tests8/		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/MultiWindowSample
 	
-	C:\AndroidStudioProjects\Examples\Tests\tests7\src\androidTest\java\com\elorri\android\tests\DialerActivityTest -> test an implicit Intent using Espresso Intent(Dialer)	
+	https://github.com/Elorri/Tests/tree/master/tests8/src/androidTest/java/com/elorri/android/tests/MultiWindowTest -> test an AutocompleteTextView
 
-C:\AndroidStudioProjects\Examples\Tests\tests8\		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/MultiWindowSample
+https://github.com/Elorri/Tests/tree/master/tests9/		-> https://github.com/googlesamples/android-testing/blob/master/ui/uiautomator/BasicSample/app
 	
-	C:\AndroidStudioProjects\Examples\Tests\tests8\src\androidTest\java\com\elorri\android\tests\MultiWindowTest -> test an AutocompleteTextView
+	https://github.com/Elorri/Tests/tree/master/tests9/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest -> test launching an app, press home, change edittext string
 
-C:\AndroidStudioProjects\Examples\Tests\tests9\		-> https://github.com/googlesamples/android-testing/blob/master/ui/uiautomator/BasicSample/app
+https://github.com/Elorri/Tests/tree/master/tests10/		-> https://github.com/googlesamples/android-testing/blob/master/unit/BasicSample/app
 	
-	C:\AndroidStudioProjects\Examples\Tests\tests9\src\androidTest\java\com\elorri\android\tests\ChangeTextBehaviorTest -> test launching an app, press home, change edittext string
+	https://github.com/Elorri/Tests/tree/master/tests10/src/androidTest/java/com/elorri/android/tests/EmailValidatorTest -> test email validity
+	https://github.com/Elorri/Tests/tree/master/tests10/src/androidTest/java/com/elorri/android/tests/SharedPreferencesHelperTest -> test a SharedPreferences	
 
-C:\AndroidStudioProjects\Examples\Tests\tests10\		-> https://github.com/googlesamples/android-testing/blob/master/unit/BasicSample/app
+https://github.com/Elorri/Tests/tree/master/tests11/		-> https://github.com/googlesamples/android-testing/tree/master/unit/BasicUnitAndroidTest
 	
-	C:\AndroidStudioProjects\Examples\Tests\tests10\src\androidTest\java\com\elorri\android\tests\EmailValidatorTest -> test email validity
-	C:\AndroidStudioProjects\Examples\Tests\tests10\src\androidTest\java\com\elorri\android\tests\SharedPreferencesHelperTest -> test a SharedPreferences	
-
-C:\AndroidStudioProjects\Examples\Tests\tests11\		-> https://github.com/googlesamples/android-testing/tree/master/unit/BasicUnitAndroidTest
-	
-	C:\AndroidStudioProjects\Examples\Tests\tests11\src\androidTest\java\com\elorri\android\tests\LogHistoryAndroidUnitTest -> test parcelable write
+	https://github.com/Elorri/Tests/tree/master/tests11/src/androidTest/java/com/elorri/android/tests/LogHistoryAndroidUnitTest -> test parcelable write
 	
 
 
