@@ -116,12 +116,13 @@ Seems that testing a fragment will look something like this
 	SOFTWARE.
 
 
+* [Glide] (https://github.com/bumptech/glide) 
+	Licensed mostly under the Apache License, Version 2.0 
 
-
-https://github.com/Elorri/Tests/tree/master/tests1/
-https://github.com/Elorri/Tests/tree/master/tests1/		-> https://github.com/googlesamples/android-testing/tree/master/integration/ServiceTestRuleSample/app
 	
-	https://github.com/Elorri/Tests/tree/master/tests1/src/androidTest/java/com/elorri/android/tests/LocalServiceTest -> test a Service	
+* [Test a Service] (https://github.com/Elorri/Tests/tree/master/tests1/src/androidTest/java/com/elorri/android/tests/LocalServiceTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/integration/ServiceTestRuleSample/app)
+	
 
 https://github.com/Elorri/Tests/tree/master/tests2/		-> https://github.com/googlesamples/android-testing/tree/master/runner/AndroidJunitRunnerSample/app
 
