@@ -138,35 +138,20 @@ Seems that testing a fragment will look something like this
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsAdvancedSample)	
 * [test an ImageView (if it has a drawable applied to it)] (https://github.com/Elorri/Tests/tree/master/tests6/src/androidTest/java/com/elorri/android/tests/ImageViewHasDrawableMatcher)
 	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsAdvancedSample)		
+* [test an implicit Intent using Espresso Intent(Dialer)] (https://github.com/Elorri/Tests/tree/master/tests7/src/androidTest/java/com/elorri/android/tests/DialerActivityTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsBasicSample)	
+* [test an AutocompleteTextView] (https://github.com/Elorri/Tests/tree/master/tests8/src/androidTest/java/com/elorri/android/tests/MultiWindowTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/espresso/MultiWindowSample)		
+* [test launching an app, press home, change edittext string] (https://github.com/Elorri/Tests/tree/master/tests9/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/ui/uiautomator/BasicSample/app)	
+* [test email validity] (https://github.com/Elorri/Tests/tree/master/tests10/src/androidTest/java/com/elorri/android/tests/EmailValidatorTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/unit/BasicSample/app)	
+* [test a SharedPreferences] (https://github.com/Elorri/Tests/tree/master/tests10/src/androidTest/java/com/elorri/android/tests/SharedPreferencesHelperTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/blob/master/unit/BasicSample/app)			
+* [test parcelable write] (https://github.com/Elorri/Tests/tree/master/tests11/src/androidTest/java/com/elorri/android/tests/LogHistoryAndroidUnitTest)
+	taken from [GoogleSamples] (https://github.com/googlesamples/android-testing/tree/master/unit/BasicUnitAndroidTest)		
 
 	
-https://github.com/Elorri/Tests/tree/master/tests6/		-> 
-	
-	 -> 	
-	 -> .
-
-https://github.com/Elorri/Tests/tree/master/tests7/		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/IntentsBasicSample
-	
-	https://github.com/Elorri/Tests/tree/master/tests7/src/androidTest/java/com/elorri/android/tests/DialerActivityTest -> test an implicit Intent using Espresso Intent(Dialer)	
-
-https://github.com/Elorri/Tests/tree/master/tests8/		-> https://github.com/googlesamples/android-testing/blob/master/ui/espresso/MultiWindowSample
-	
-	https://github.com/Elorri/Tests/tree/master/tests8/src/androidTest/java/com/elorri/android/tests/MultiWindowTest -> test an AutocompleteTextView
-
-https://github.com/Elorri/Tests/tree/master/tests9/		-> https://github.com/googlesamples/android-testing/blob/master/ui/uiautomator/BasicSample/app
-	
-	https://github.com/Elorri/Tests/tree/master/tests9/src/androidTest/java/com/elorri/android/tests/ChangeTextBehaviorTest -> test launching an app, press home, change edittext string
-
-https://github.com/Elorri/Tests/tree/master/tests10/		-> https://github.com/googlesamples/android-testing/blob/master/unit/BasicSample/app
-	
-	https://github.com/Elorri/Tests/tree/master/tests10/src/androidTest/java/com/elorri/android/tests/EmailValidatorTest -> test email validity
-	https://github.com/Elorri/Tests/tree/master/tests10/src/androidTest/java/com/elorri/android/tests/SharedPreferencesHelperTest -> test a SharedPreferences	
-
-https://github.com/Elorri/Tests/tree/master/tests11/		-> https://github.com/googlesamples/android-testing/tree/master/unit/BasicUnitAndroidTest
-	
-	https://github.com/Elorri/Tests/tree/master/tests11/src/androidTest/java/com/elorri/android/tests/LogHistoryAndroidUnitTest -> test parcelable write
-	
-
 
 
 Things you usually need to mock
